@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/2f7f34e0-6536-4011-b9c9-ac38e8f6dd6e/resourceGroups/diary/providers/Microsoft.Web/sites/khazore",
+    "appService.deploySubpath": "."
+}

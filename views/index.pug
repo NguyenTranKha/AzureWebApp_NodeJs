@@ -1,0 +1,18 @@
+extends layout
+
+block content
+  h2 Tân An, Long An 
+  i
+    span (dữ liệu được update lần cuối vào lúc: 
+    span= datatime
+    span )
+  p
+    i.fas.fa-thermometer-half(style='color:#059e8a;')
+    span= temperature
+    span &deg;C
+  p
+    i.fas.fa-tint(style='color:#00add6;')
+    span= humidity
+    span %
+  h3 Thời Gian
+  h3= time

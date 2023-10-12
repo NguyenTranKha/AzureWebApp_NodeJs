@@ -1,0 +1,19 @@
+body {
+  font-family: Calibri, sans-serif;
+  text-align: center;
+  margin: auto;
+
+}
+
+h2 { font-size: 3.0rem;}
+p { font-size: 3.0rem;}
+.units { font-size: 1.2rem; }
+.dht-labels{
+  font-size: 1.5rem;
+  vertical-align:middle;
+  padding-bottom: 15px;
+}
+
+a {
+  color: #00B7FF;
+}
